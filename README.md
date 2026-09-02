@@ -18,7 +18,7 @@
 
 Интерактивный дашборд:
 
-**[Открыть дашборд в Yandex DataLens](https://us.datalens-front.cloud.yandex.net/jht0cib5ace82?_embedded=1&tab=80&_theme=dark&_no_controls=1)**
+**[Открыть дашборд в Yandex DataLens](https://datalens.yandex/jht0cib5ace82?utm_source=chatgpt.com)**
 
 Резервная версия: скриншоты дашборда находятся в папке `dashboard/`.
 
