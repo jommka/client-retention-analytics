@@ -18,7 +18,9 @@
 
 Интерактивный дашборд:
 
-**[Открыть дашборд в Yandex DataLens](https://us.datalens-front.cloud.yandex.net/jht0cib5ace82)**
+**[Открыть дашборд в Yandex DataLens](https://us.datalens-front.cloud.yandex.net/jht0cib5ace82?_embedded=1&tab=80&_theme=dark&_no_controls=1)**
+
+Резервная версия: скриншоты дашборда находятся в папке `dashboard/`.
 
 Дашборд содержит:
 - количество уникальных клиентов и флайтов;
